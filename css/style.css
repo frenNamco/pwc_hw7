@@ -3,6 +3,10 @@ body {
   max-width: 700px;
   margin: 40px auto;
   padding: 0 20px;
+  background-image: url(../assets/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 h1 {
