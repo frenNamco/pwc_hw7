@@ -32,4 +32,7 @@ h1 {
 .grid p {
   margin: 6px 0 0;
   font-size: 0.85rem;
+  color: black;
+  background-color: rgba(95 223 255 / 0.58);
+  border-radius: 5px;
 }
