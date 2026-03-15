@@ -29,7 +29,7 @@ let months= ["January", "February", " March", "April", "May", "June", "July", "A
             "September", "October", "November", "Decembter"];
 
 function preload() {
-  font = loadFont("/assets/SpaceGrotesk-Bold.ttf");
+  font = loadFont("assets/SpaceGrotesk-Bold.ttf");
 }
 
 function setup() {

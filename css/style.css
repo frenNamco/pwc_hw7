@@ -11,6 +11,9 @@ body {
 
 h1 {
   margin-bottom: 20px;
+  color: black;
+  background-color: rgba(154, 255, 0, 0.67);
+  border-radius: 5px;
 }
 
 .grid {
@@ -33,6 +36,6 @@ h1 {
   margin: 6px 0 0;
   font-size: 0.85rem;
   color: black;
-  background-color: rgba(95 223 255 / 0.58);
+  background-color: rgba(154, 255, 0, 0.67);
   border-radius: 5px;
 }
